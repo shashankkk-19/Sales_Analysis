@@ -2,9 +2,6 @@
 ## Project Overview 
 A comprehensive overall sales analytics project using SQL for data extraction and transformation, and Power BI for dynamic visualization.
 
-## Dataset used
-<a href= "https://github.com/Manjari0522/sql_powerbi_retailsales_analytics/blob/main/retailsales.csv.zip">Retail Sales data</a>
-
 ## Tools & Technologies
 SQL (MySQL) – Data querying and transformation
 Power BI – Dashboard development and visualization
@@ -27,8 +24,6 @@ The sales_queries.sql file includes mainly following domains-
 4. Which customers and products are driving the most revenue?
 5. What are the average shipping days and unit prices?
 6. How does AOV (Average Order Value) vary by delivery region?
-
-<a href="https://github.com/Manjari0522/sql_powerbi_retailsales_analytics/blob/main/retailsales.dashboard.png">Dashboard review</a>
 
 ## Insights
 
